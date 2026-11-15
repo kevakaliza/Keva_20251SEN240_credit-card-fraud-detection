@@ -53,4 +53,3 @@ live Oracle database.
 | Package | Groups the fraud rules and risk functions together |
 | Exception handling | Handles missing accounts and invalid amounts |
 
-## Repository Structure
